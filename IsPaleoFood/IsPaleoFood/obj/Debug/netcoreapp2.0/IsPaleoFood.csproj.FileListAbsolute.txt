@@ -1,0 +1,11 @@
+C:\Users\karthikeyan.sivasamy\Source\AWS\IsPaleoFood\IsPaleoFood\bin\Debug\netcoreapp2.0\IsPaleoFood.deps.json
+C:\Users\karthikeyan.sivasamy\Source\AWS\IsPaleoFood\IsPaleoFood\bin\Debug\netcoreapp2.0\IsPaleoFood.runtimeconfig.json
+C:\Users\karthikeyan.sivasamy\Source\AWS\IsPaleoFood\IsPaleoFood\bin\Debug\netcoreapp2.0\IsPaleoFood.runtimeconfig.dev.json
+C:\Users\karthikeyan.sivasamy\Source\AWS\IsPaleoFood\IsPaleoFood\bin\Debug\netcoreapp2.0\IsPaleoFood.dll
+C:\Users\karthikeyan.sivasamy\Source\AWS\IsPaleoFood\IsPaleoFood\bin\Debug\netcoreapp2.0\IsPaleoFood.pdb
+C:\Users\karthikeyan.sivasamy\Source\AWS\IsPaleoFood\IsPaleoFood\obj\Debug\netcoreapp2.0\IsPaleoFood.csproj.CoreCompileInputs.cache
+C:\Users\karthikeyan.sivasamy\Source\AWS\IsPaleoFood\IsPaleoFood\obj\Debug\netcoreapp2.0\IsPaleoFood.AssemblyInfoInputs.cache
+C:\Users\karthikeyan.sivasamy\Source\AWS\IsPaleoFood\IsPaleoFood\obj\Debug\netcoreapp2.0\IsPaleoFood.AssemblyInfo.cs
+C:\Users\karthikeyan.sivasamy\Source\AWS\IsPaleoFood\IsPaleoFood\obj\Debug\netcoreapp2.0\IsPaleoFood.dll
+C:\Users\karthikeyan.sivasamy\Source\AWS\IsPaleoFood\IsPaleoFood\obj\Debug\netcoreapp2.0\IsPaleoFood.pdb
+C:\Users\karthikeyan.sivasamy\Source\AWS\IsPaleoFood\IsPaleoFood\obj\Debug\netcoreapp2.0\IsPaleoFood.csprojResolveAssemblyReference.cache
